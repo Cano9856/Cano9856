@@ -1,4 +1,7 @@
-(https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/lottie.json)  My Journey:
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/512.gif" alt="🙃" width="32" height="32">
+</picture>  My Journey:
 I’m Alejandro, Fullstack developer from Zaragoza, Spain.
 
 🌐 Socials:
