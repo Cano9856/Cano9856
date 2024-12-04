@@ -1,7 +1,7 @@
-<img>
+<h1><img>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f643/512.gif" alt="🙃" width="32" height="32">
-</img>  <h1> My Journey:</h1>
+</img>   My Journey:</h1>
 
 I’m Alejandro, Fullstack developer from Zaragoza, Spain.
 
