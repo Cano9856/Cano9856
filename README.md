@@ -7,7 +7,7 @@ I’m Alejandro, Fullstack developer from Zaragoza, Spain.
 
 <h3>🌐 Socials:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AlejandroAmbrojCastejon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devalejandroambroj) 
 
  <h2>💻 My Tech Arsenal:</h2>
  
